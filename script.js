@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
           musicIcon.className = 'fa-solid fa-pause';
         }).catch((error) => {
           console.error("Erro ao tocar áudio:", error);
-          alert("Não foi possível carregar a música. Verifique se o arquivo 'audio/all-of-me.mp3' está na pasta correta.");
+          alert("Não foi possível carregar a música. Verifique se o arquivo 'audio/musica.mp3' está na pasta correta.");
         });
       } else {
         bgMusic.pause();

@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
       e.preventDefault();
 
       // Digite aqui o número do WhatsApp que vai receber os dados (DDD + número)
-      const numeroWhatsapp = "5511973968625"; 
+      const numeroWhatsapp = "5511987330701"; 
 
       const nome = document.getElementById('nome').value;
       const celebracao = document.getElementById('presencaCelebracao').value;
